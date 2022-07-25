@@ -29,65 +29,65 @@
 		private void InitializeComponent()
 		{
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle24 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle25 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle26 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle27 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle28 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle29 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle30 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle31 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle32 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle33 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle34 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle35 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle36 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle37 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle38 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle39 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle40 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle41 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle42 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle43 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle44 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle45 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle46 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle93 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle94 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle95 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle96 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle97 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle98 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle99 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle100 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle101 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle102 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle103 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle104 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle105 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle106 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle107 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle108 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle109 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle110 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle111 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle112 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle113 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle114 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle115 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            System.Windows.Forms.ListViewItem listViewItem8 = new System.Windows.Forms.ListViewItem("Görev Başladı             ");
-            System.Windows.Forms.ListViewItem listViewItem9 = new System.Windows.Forms.ListViewItem("Uçuş Bekleniyor");
-            System.Windows.Forms.ListViewItem listViewItem10 = new System.Windows.Forms.ListViewItem("Model Uydu Yükselmekte");
-            System.Windows.Forms.ListViewItem listViewItem11 = new System.Windows.Forms.ListViewItem("Model Uydu İnişte");
-            System.Windows.Forms.ListViewItem listViewItem12 = new System.Windows.Forms.ListViewItem("Görev Yükü Taşıyıcıdan Ayrıldı");
-            System.Windows.Forms.ListViewItem listViewItem13 = new System.Windows.Forms.ListViewItem("Görev Yükü Kurtarılmayı Bekleniyor");
-            System.Windows.Forms.ListViewItem listViewItem14 = new System.Windows.Forms.ListViewItem("Görev Tamamlandı");
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea10 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend10 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series11 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea11 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend11 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series12 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea12 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend12 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series13 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea13 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend13 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series14 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea14 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend14 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series15 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea15 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend15 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series16 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea16 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend16 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series17 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea17 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend17 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series18 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea18 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend18 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series19 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series20 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.ListViewItem listViewItem29 = new System.Windows.Forms.ListViewItem("Görev Başladı             ");
+            System.Windows.Forms.ListViewItem listViewItem30 = new System.Windows.Forms.ListViewItem("Uçuş Bekleniyor");
+            System.Windows.Forms.ListViewItem listViewItem31 = new System.Windows.Forms.ListViewItem("Model Uydu Yükselmekte");
+            System.Windows.Forms.ListViewItem listViewItem32 = new System.Windows.Forms.ListViewItem("Model Uydu İnişte");
+            System.Windows.Forms.ListViewItem listViewItem33 = new System.Windows.Forms.ListViewItem("Görev Yükü Taşıyıcıdan Ayrıldı");
+            System.Windows.Forms.ListViewItem listViewItem34 = new System.Windows.Forms.ListViewItem("Görev Yükü Kurtarılmayı Bekleniyor");
+            System.Windows.Forms.ListViewItem listViewItem35 = new System.Windows.Forms.ListViewItem("Görev Tamamlandı");
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea37 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend37 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series41 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea38 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend38 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series42 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea39 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend39 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series43 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea40 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend40 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series44 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea41 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend41 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series45 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea42 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend42 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series46 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea43 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend43 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series47 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea44 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend44 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series48 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea45 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend45 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series49 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series50 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.serialPort1 = new System.IO.Ports.SerialPort(this.components);
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.button9 = new System.Windows.Forms.Button();
@@ -178,6 +178,8 @@
             this.chart8 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.chart9 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
+            this.button15 = new System.Windows.Forms.Button();
+            this.button14 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.label7 = new System.Windows.Forms.Label();
@@ -191,6 +193,11 @@
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
             this.groupBox12 = new System.Windows.Forms.GroupBox();
+            this.button17 = new System.Windows.Forms.Button();
+            this.groupBox13 = new System.Windows.Forms.GroupBox();
+            this.button5 = new System.Windows.Forms.Button();
+            this.button12 = new System.Windows.Forms.Button();
+            this.button13 = new System.Windows.Forms.Button();
             this.button11 = new System.Windows.Forms.Button();
             this.button10 = new System.Windows.Forms.Button();
             this.button8 = new System.Windows.Forms.Button();
@@ -198,17 +205,13 @@
             this.webView21 = new Microsoft.Web.WebView2.WinForms.WebView2();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.backgroundWorker2 = new System.ComponentModel.BackgroundWorker();
-            this.groupBox13 = new System.Windows.Forms.GroupBox();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button12 = new System.Windows.Forms.Button();
-            this.button13 = new System.Windows.Forms.Button();
             this.groupBox14 = new System.Windows.Forms.GroupBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.gorevBilgisi.SuspendLayout();
             this.groupBox4.SuspendLayout();
@@ -233,9 +236,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.chart9)).BeginInit();
             this.groupBox5.SuspendLayout();
             this.groupBox12.SuspendLayout();
+            this.groupBox13.SuspendLayout();
             this.groupBox3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webView21)).BeginInit();
-            this.groupBox13.SuspendLayout();
             this.groupBox14.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -261,7 +264,6 @@
             this.groupBox1.TabIndex = 4;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Bağlantı Kur";
-            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // button9
             // 
@@ -528,7 +530,6 @@
             this.liveCam.Size = new System.Drawing.Size(436, 251);
             this.liveCam.TabIndex = 0;
             this.liveCam.TabStop = false;
-            this.liveCam.Click += new System.EventHandler(this.liveCam_Click);
             // 
             // groupBox7
             // 
@@ -547,7 +548,7 @@
             // 
             this.glControl1.BackColor = System.Drawing.Color.Black;
             this.glControl1.Location = new System.Drawing.Point(3, 18);
-            this.glControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.glControl1.Margin = new System.Windows.Forms.Padding(4);
             this.glControl1.Name = "glControl1";
             this.glControl1.Size = new System.Drawing.Size(438, 263);
             this.glControl1.TabIndex = 39;
@@ -566,6 +567,7 @@
             this.textBox22.TabIndex = 22;
             this.textBox22.Text = "0";
             this.textBox22.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox22.TextChanged += new System.EventHandler(this.textBox22_TextChanged);
             // 
             // textBox29
             // 
@@ -578,6 +580,7 @@
             this.textBox29.TabIndex = 23;
             this.textBox29.Text = "0";
             this.textBox29.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox29.TextChanged += new System.EventHandler(this.textBox29_TextChanged);
             // 
             // textBox30
             // 
@@ -590,6 +593,7 @@
             this.textBox30.TabIndex = 24;
             this.textBox30.Text = "0";
             this.textBox30.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox30.TextChanged += new System.EventHandler(this.textBox30_TextChanged);
             // 
             // label30
             // 
@@ -667,184 +671,184 @@
             // 
             // Column1
             // 
-            dataGridViewCellStyle24.ForeColor = System.Drawing.Color.Black;
-            this.Column1.DefaultCellStyle = dataGridViewCellStyle24;
+            dataGridViewCellStyle93.ForeColor = System.Drawing.Color.Black;
+            this.Column1.DefaultCellStyle = dataGridViewCellStyle93;
             this.Column1.HeaderText = "Takım No";
             this.Column1.MinimumWidth = 8;
             this.Column1.Name = "Column1";
             // 
             // Paket_No
             // 
-            dataGridViewCellStyle25.ForeColor = System.Drawing.Color.Black;
-            this.Paket_No.DefaultCellStyle = dataGridViewCellStyle25;
+            dataGridViewCellStyle94.ForeColor = System.Drawing.Color.Black;
+            this.Paket_No.DefaultCellStyle = dataGridViewCellStyle94;
             this.Paket_No.HeaderText = "Paket No";
             this.Paket_No.MinimumWidth = 8;
             this.Paket_No.Name = "Paket_No";
             // 
             // Column3
             // 
-            dataGridViewCellStyle26.ForeColor = System.Drawing.Color.Black;
-            this.Column3.DefaultCellStyle = dataGridViewCellStyle26;
+            dataGridViewCellStyle95.ForeColor = System.Drawing.Color.Black;
+            this.Column3.DefaultCellStyle = dataGridViewCellStyle95;
             this.Column3.HeaderText = "Gönderme Saati";
             this.Column3.MinimumWidth = 8;
             this.Column3.Name = "Column3";
             // 
             // Column2
             // 
-            dataGridViewCellStyle27.ForeColor = System.Drawing.Color.Black;
-            this.Column2.DefaultCellStyle = dataGridViewCellStyle27;
+            dataGridViewCellStyle96.ForeColor = System.Drawing.Color.Black;
+            this.Column2.DefaultCellStyle = dataGridViewCellStyle96;
             this.Column2.HeaderText = " Basınç 1";
             this.Column2.MinimumWidth = 8;
             this.Column2.Name = "Column2";
             // 
             // Column4
             // 
-            dataGridViewCellStyle28.ForeColor = System.Drawing.Color.Black;
-            this.Column4.DefaultCellStyle = dataGridViewCellStyle28;
+            dataGridViewCellStyle97.ForeColor = System.Drawing.Color.Black;
+            this.Column4.DefaultCellStyle = dataGridViewCellStyle97;
             this.Column4.HeaderText = "Basınç 2";
             this.Column4.MinimumWidth = 8;
             this.Column4.Name = "Column4";
             // 
             // Column5
             // 
-            dataGridViewCellStyle29.ForeColor = System.Drawing.Color.Black;
-            this.Column5.DefaultCellStyle = dataGridViewCellStyle29;
+            dataGridViewCellStyle98.ForeColor = System.Drawing.Color.Black;
+            this.Column5.DefaultCellStyle = dataGridViewCellStyle98;
             this.Column5.HeaderText = "Yükseklik 1";
             this.Column5.MinimumWidth = 8;
             this.Column5.Name = "Column5";
             // 
             // Column6
             // 
-            dataGridViewCellStyle30.ForeColor = System.Drawing.Color.Black;
-            this.Column6.DefaultCellStyle = dataGridViewCellStyle30;
+            dataGridViewCellStyle99.ForeColor = System.Drawing.Color.Black;
+            this.Column6.DefaultCellStyle = dataGridViewCellStyle99;
             this.Column6.HeaderText = "Yükseklik 2";
             this.Column6.MinimumWidth = 8;
             this.Column6.Name = "Column6";
             // 
             // Column7
             // 
-            dataGridViewCellStyle31.ForeColor = System.Drawing.Color.Black;
-            this.Column7.DefaultCellStyle = dataGridViewCellStyle31;
+            dataGridViewCellStyle100.ForeColor = System.Drawing.Color.Black;
+            this.Column7.DefaultCellStyle = dataGridViewCellStyle100;
             this.Column7.HeaderText = "İrtifa Farkı";
             this.Column7.MinimumWidth = 8;
             this.Column7.Name = "Column7";
             // 
             // Column8
             // 
-            dataGridViewCellStyle32.ForeColor = System.Drawing.Color.Black;
-            this.Column8.DefaultCellStyle = dataGridViewCellStyle32;
+            dataGridViewCellStyle101.ForeColor = System.Drawing.Color.Black;
+            this.Column8.DefaultCellStyle = dataGridViewCellStyle101;
             this.Column8.HeaderText = "İniş Hızı";
             this.Column8.MinimumWidth = 8;
             this.Column8.Name = "Column8";
             // 
             // Column9
             // 
-            dataGridViewCellStyle33.ForeColor = System.Drawing.Color.Black;
-            this.Column9.DefaultCellStyle = dataGridViewCellStyle33;
+            dataGridViewCellStyle102.ForeColor = System.Drawing.Color.Black;
+            this.Column9.DefaultCellStyle = dataGridViewCellStyle102;
             this.Column9.HeaderText = "Sıcaklık";
             this.Column9.MinimumWidth = 8;
             this.Column9.Name = "Column9";
             // 
             // Column10
             // 
-            dataGridViewCellStyle34.ForeColor = System.Drawing.Color.Black;
-            this.Column10.DefaultCellStyle = dataGridViewCellStyle34;
+            dataGridViewCellStyle103.ForeColor = System.Drawing.Color.Black;
+            this.Column10.DefaultCellStyle = dataGridViewCellStyle103;
             this.Column10.HeaderText = "Pil Gerilimi";
             this.Column10.MinimumWidth = 8;
             this.Column10.Name = "Column10";
             // 
             // Column11
             // 
-            dataGridViewCellStyle35.ForeColor = System.Drawing.Color.Black;
-            this.Column11.DefaultCellStyle = dataGridViewCellStyle35;
+            dataGridViewCellStyle104.ForeColor = System.Drawing.Color.Black;
+            this.Column11.DefaultCellStyle = dataGridViewCellStyle104;
             this.Column11.HeaderText = "GPS1 Latitude";
             this.Column11.MinimumWidth = 8;
             this.Column11.Name = "Column11";
             // 
             // Column12
             // 
-            dataGridViewCellStyle36.ForeColor = System.Drawing.Color.Black;
-            this.Column12.DefaultCellStyle = dataGridViewCellStyle36;
+            dataGridViewCellStyle105.ForeColor = System.Drawing.Color.Black;
+            this.Column12.DefaultCellStyle = dataGridViewCellStyle105;
             this.Column12.HeaderText = "GPS1 Longtitude";
             this.Column12.MinimumWidth = 8;
             this.Column12.Name = "Column12";
             // 
             // Column13
             // 
-            dataGridViewCellStyle37.ForeColor = System.Drawing.Color.Black;
-            this.Column13.DefaultCellStyle = dataGridViewCellStyle37;
+            dataGridViewCellStyle106.ForeColor = System.Drawing.Color.Black;
+            this.Column13.DefaultCellStyle = dataGridViewCellStyle106;
             this.Column13.HeaderText = "GPS1 Altitude";
             this.Column13.MinimumWidth = 8;
             this.Column13.Name = "Column13";
             // 
             // Column14
             // 
-            dataGridViewCellStyle38.ForeColor = System.Drawing.Color.Black;
-            this.Column14.DefaultCellStyle = dataGridViewCellStyle38;
+            dataGridViewCellStyle107.ForeColor = System.Drawing.Color.Black;
+            this.Column14.DefaultCellStyle = dataGridViewCellStyle107;
             this.Column14.HeaderText = "GPS2 Latitude";
             this.Column14.MinimumWidth = 8;
             this.Column14.Name = "Column14";
             // 
             // Column15
             // 
-            dataGridViewCellStyle39.ForeColor = System.Drawing.Color.Black;
-            this.Column15.DefaultCellStyle = dataGridViewCellStyle39;
+            dataGridViewCellStyle108.ForeColor = System.Drawing.Color.Black;
+            this.Column15.DefaultCellStyle = dataGridViewCellStyle108;
             this.Column15.HeaderText = "GPS2 Longtitude";
             this.Column15.MinimumWidth = 8;
             this.Column15.Name = "Column15";
             // 
             // Column16
             // 
-            dataGridViewCellStyle40.ForeColor = System.Drawing.Color.Black;
-            this.Column16.DefaultCellStyle = dataGridViewCellStyle40;
+            dataGridViewCellStyle109.ForeColor = System.Drawing.Color.Black;
+            this.Column16.DefaultCellStyle = dataGridViewCellStyle109;
             this.Column16.HeaderText = "GPS2 Altitude";
             this.Column16.MinimumWidth = 8;
             this.Column16.Name = "Column16";
             // 
             // Column17
             // 
-            dataGridViewCellStyle41.ForeColor = System.Drawing.Color.Black;
-            this.Column17.DefaultCellStyle = dataGridViewCellStyle41;
+            dataGridViewCellStyle110.ForeColor = System.Drawing.Color.Black;
+            this.Column17.DefaultCellStyle = dataGridViewCellStyle110;
             this.Column17.HeaderText = "Uydu Statüsü";
             this.Column17.MinimumWidth = 8;
             this.Column17.Name = "Column17";
             // 
             // Column18
             // 
-            dataGridViewCellStyle42.ForeColor = System.Drawing.Color.Black;
-            this.Column18.DefaultCellStyle = dataGridViewCellStyle42;
+            dataGridViewCellStyle111.ForeColor = System.Drawing.Color.Black;
+            this.Column18.DefaultCellStyle = dataGridViewCellStyle111;
             this.Column18.HeaderText = "Pitch";
             this.Column18.MinimumWidth = 8;
             this.Column18.Name = "Column18";
             // 
             // Column19
             // 
-            dataGridViewCellStyle43.ForeColor = System.Drawing.Color.Black;
-            this.Column19.DefaultCellStyle = dataGridViewCellStyle43;
+            dataGridViewCellStyle112.ForeColor = System.Drawing.Color.Black;
+            this.Column19.DefaultCellStyle = dataGridViewCellStyle112;
             this.Column19.HeaderText = "Roll";
             this.Column19.MinimumWidth = 8;
             this.Column19.Name = "Column19";
             // 
             // Column20
             // 
-            dataGridViewCellStyle44.ForeColor = System.Drawing.Color.Black;
-            this.Column20.DefaultCellStyle = dataGridViewCellStyle44;
+            dataGridViewCellStyle113.ForeColor = System.Drawing.Color.Black;
+            this.Column20.DefaultCellStyle = dataGridViewCellStyle113;
             this.Column20.HeaderText = "Yaw";
             this.Column20.MinimumWidth = 8;
             this.Column20.Name = "Column20";
             // 
             // Column21
             // 
-            dataGridViewCellStyle45.ForeColor = System.Drawing.Color.Black;
-            this.Column21.DefaultCellStyle = dataGridViewCellStyle45;
+            dataGridViewCellStyle114.ForeColor = System.Drawing.Color.Black;
+            this.Column21.DefaultCellStyle = dataGridViewCellStyle114;
             this.Column21.HeaderText = "Dönüş Sayısı";
             this.Column21.MinimumWidth = 8;
             this.Column21.Name = "Column21";
             // 
             // Column22
             // 
-            dataGridViewCellStyle46.ForeColor = System.Drawing.Color.Black;
-            this.Column22.DefaultCellStyle = dataGridViewCellStyle46;
+            dataGridViewCellStyle115.ForeColor = System.Drawing.Color.Black;
+            this.Column22.DefaultCellStyle = dataGridViewCellStyle115;
             this.Column22.HeaderText = "Video Aktarım Bilgisi";
             this.Column22.MinimumWidth = 8;
             this.Column22.Name = "Column22";
@@ -875,6 +879,7 @@
             this.MapGorev.Size = new System.Drawing.Size(328, 200);
             this.MapGorev.TabIndex = 30;
             this.MapGorev.Zoom = 0D;
+            this.MapGorev.Load += new System.EventHandler(this.MapGorev_Load);
             // 
             // groupBox8
             // 
@@ -926,6 +931,7 @@
             this.MapTasiyici.Size = new System.Drawing.Size(329, 200);
             this.MapTasiyici.TabIndex = 30;
             this.MapTasiyici.Zoom = 0D;
+            this.MapTasiyici.Load += new System.EventHandler(this.MapTasiyici_Load);
             // 
             // groupBox10
             // 
@@ -1016,13 +1022,13 @@
             this.listView1.GridLines = true;
             this.listView1.HideSelection = false;
             this.listView1.Items.AddRange(new System.Windows.Forms.ListViewItem[] {
-            listViewItem8,
-            listViewItem9,
-            listViewItem10,
-            listViewItem11,
-            listViewItem12,
-            listViewItem13,
-            listViewItem14});
+            listViewItem29,
+            listViewItem30,
+            listViewItem31,
+            listViewItem32,
+            listViewItem33,
+            listViewItem34,
+            listViewItem35});
             this.listView1.Location = new System.Drawing.Point(10, 19);
             this.listView1.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.listView1.Name = "listView1";
@@ -1067,140 +1073,152 @@
             // 
             // chart3
             // 
-            chartArea10.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea10.AxisX.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea10.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea10.AxisY.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea10.Name = "ChartArea1";
-            this.chart3.ChartAreas.Add(chartArea10);
-            legend10.Enabled = false;
-            legend10.Name = "Legend1";
-            this.chart3.Legends.Add(legend10);
+            chartArea37.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea37.AxisX.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea37.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea37.AxisY.Maximum = 1000D;
+            chartArea37.AxisY.Minimum = 0D;
+            chartArea37.AxisY.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea37.Name = "ChartArea1";
+            this.chart3.ChartAreas.Add(chartArea37);
+            legend37.Enabled = false;
+            legend37.Name = "Legend1";
+            this.chart3.Legends.Add(legend37);
             this.chart3.Location = new System.Drawing.Point(462, 173);
             this.chart3.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.chart3.Name = "chart3";
-            series11.ChartArea = "ChartArea1";
-            series11.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series11.IsVisibleInLegend = false;
-            series11.Legend = "Legend1";
-            series11.Name = "Series1";
-            this.chart3.Series.Add(series11);
+            series41.ChartArea = "ChartArea1";
+            series41.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series41.IsVisibleInLegend = false;
+            series41.Legend = "Legend1";
+            series41.Name = "Series1";
+            this.chart3.Series.Add(series41);
             this.chart3.Size = new System.Drawing.Size(359, 185);
             this.chart3.TabIndex = 47;
             this.chart3.Text = "Yükseklik1";
             // 
             // chart4
             // 
-            chartArea11.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea11.AxisX.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea11.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea11.AxisY.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea11.Name = "ChartArea1";
-            this.chart4.ChartAreas.Add(chartArea11);
-            legend11.Enabled = false;
-            legend11.Name = "Legend1";
-            this.chart4.Legends.Add(legend11);
+            chartArea38.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea38.AxisX.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea38.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea38.AxisY.Maximum = 1000D;
+            chartArea38.AxisY.Minimum = 0D;
+            chartArea38.AxisY.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea38.Name = "ChartArea1";
+            this.chart4.ChartAreas.Add(chartArea38);
+            legend38.Enabled = false;
+            legend38.Name = "Legend1";
+            this.chart4.Legends.Add(legend38);
             this.chart4.Location = new System.Drawing.Point(835, 384);
             this.chart4.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.chart4.Name = "chart4";
-            series12.ChartArea = "ChartArea1";
-            series12.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series12.Legend = "Legend1";
-            series12.Name = "Series1";
-            this.chart4.Series.Add(series12);
+            series42.ChartArea = "ChartArea1";
+            series42.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series42.Legend = "Legend1";
+            series42.Name = "Series1";
+            this.chart4.Series.Add(series42);
             this.chart4.Size = new System.Drawing.Size(360, 185);
             this.chart4.TabIndex = 48;
             this.chart4.Text = "iniş hızı";
             // 
             // chart1
             // 
-            chartArea12.AxisX.MajorGrid.LineColor = System.Drawing.Color.Transparent;
-            chartArea12.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea12.AxisX.MinorGrid.LineColor = System.Drawing.Color.Transparent;
-            chartArea12.AxisX.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea12.AxisX.TitleForeColor = System.Drawing.Color.Bisque;
-            chartArea12.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea12.AxisY.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea12.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea12);
-            legend12.Enabled = false;
-            legend12.Name = "Legend1";
-            this.chart1.Legends.Add(legend12);
+            chartArea39.AxisX.MajorGrid.LineColor = System.Drawing.Color.Transparent;
+            chartArea39.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea39.AxisX.MinorGrid.LineColor = System.Drawing.Color.Transparent;
+            chartArea39.AxisX.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea39.AxisX.TitleForeColor = System.Drawing.Color.Bisque;
+            chartArea39.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea39.AxisY.Maximum = 60D;
+            chartArea39.AxisY.Minimum = 20D;
+            chartArea39.AxisY.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea39.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea39);
+            legend39.Enabled = false;
+            legend39.Name = "Legend1";
+            this.chart1.Legends.Add(legend39);
             this.chart1.Location = new System.Drawing.Point(832, 175);
             this.chart1.Margin = new System.Windows.Forms.Padding(0);
             this.chart1.Name = "chart1";
-            series13.ChartArea = "ChartArea1";
-            series13.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series13.LabelForeColor = System.Drawing.Color.Transparent;
-            series13.Legend = "Legend1";
-            series13.Name = "Series1";
-            this.chart1.Series.Add(series13);
+            series43.ChartArea = "ChartArea1";
+            series43.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series43.LabelForeColor = System.Drawing.Color.Transparent;
+            series43.Legend = "Legend1";
+            series43.Name = "Series1";
+            this.chart1.Series.Add(series43);
             this.chart1.Size = new System.Drawing.Size(363, 185);
             this.chart1.TabIndex = 49;
             this.chart1.Text = "Sıcaklık";
             // 
             // chart2
             // 
-            chartArea13.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea13.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea13.Name = "ChartArea1";
-            this.chart2.ChartAreas.Add(chartArea13);
-            legend13.Enabled = false;
-            legend13.Name = "Legend1";
-            this.chart2.Legends.Add(legend13);
+            chartArea40.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea40.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea40.AxisY.Maximum = 1000D;
+            chartArea40.AxisY.Minimum = 0D;
+            chartArea40.Name = "ChartArea1";
+            this.chart2.ChartAreas.Add(chartArea40);
+            legend40.Enabled = false;
+            legend40.Name = "Legend1";
+            this.chart2.Legends.Add(legend40);
             this.chart2.Location = new System.Drawing.Point(1203, 584);
             this.chart2.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.chart2.Name = "chart2";
-            series14.ChartArea = "ChartArea1";
-            series14.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series14.Legend = "Legend1";
-            series14.Name = "Series1";
-            this.chart2.Series.Add(series14);
+            series44.ChartArea = "ChartArea1";
+            series44.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series44.Legend = "Legend1";
+            series44.Name = "Series1";
+            this.chart2.Series.Add(series44);
             this.chart2.Size = new System.Drawing.Size(363, 185);
             this.chart2.TabIndex = 50;
             this.chart2.Text = "Yükseklik2";
             // 
             // chart5
             // 
-            chartArea14.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea14.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea14.Name = "ChartArea1";
-            this.chart5.ChartAreas.Add(chartArea14);
-            legend14.Enabled = false;
-            legend14.Name = "Legend1";
-            this.chart5.Legends.Add(legend14);
+            chartArea41.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea41.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea41.AxisY.Maximum = 350D;
+            chartArea41.AxisY.Minimum = 0D;
+            chartArea41.Name = "ChartArea1";
+            this.chart5.ChartAreas.Add(chartArea41);
+            legend41.Enabled = false;
+            legend41.Name = "Legend1";
+            this.chart5.Legends.Add(legend41);
             this.chart5.Location = new System.Drawing.Point(832, 584);
             this.chart5.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.chart5.Name = "chart5";
-            series15.ChartArea = "ChartArea1";
-            series15.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series15.Legend = "Legend1";
-            series15.Name = "Series1";
-            this.chart5.Series.Add(series15);
+            series45.ChartArea = "ChartArea1";
+            series45.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series45.Legend = "Legend1";
+            series45.Name = "Series1";
+            this.chart5.Series.Add(series45);
             this.chart5.Size = new System.Drawing.Size(363, 185);
             this.chart5.TabIndex = 51;
             this.chart5.Text = "chart5";
             // 
             // chart6
             // 
-            chartArea15.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea15.AxisX.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea15.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea15.AxisY.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea15.Name = "ChartArea1";
-            this.chart6.ChartAreas.Add(chartArea15);
-            legend15.Enabled = false;
-            legend15.Name = "Legend1";
-            this.chart6.Legends.Add(legend15);
+            chartArea42.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea42.AxisX.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea42.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea42.AxisY.Maximum = 16D;
+            chartArea42.AxisY.Minimum = 8D;
+            chartArea42.AxisY.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea42.Name = "ChartArea1";
+            this.chart6.ChartAreas.Add(chartArea42);
+            legend42.Enabled = false;
+            legend42.Name = "Legend1";
+            this.chart6.Legends.Add(legend42);
             this.chart6.Location = new System.Drawing.Point(1203, 173);
-            this.chart6.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.chart6.Margin = new System.Windows.Forms.Padding(1);
             this.chart6.Name = "chart6";
-            series16.ChartArea = "ChartArea1";
-            series16.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series16.LabelForeColor = System.Drawing.Color.LightGray;
-            series16.Legend = "Legend1";
-            series16.Name = "Series1";
-            this.chart6.Series.Add(series16);
+            series46.ChartArea = "ChartArea1";
+            series46.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series46.LabelForeColor = System.Drawing.Color.LightGray;
+            series46.Legend = "Legend1";
+            series46.Name = "Series1";
+            this.chart6.Series.Add(series46);
             this.chart6.Size = new System.Drawing.Size(363, 185);
             this.chart6.TabIndex = 52;
             this.chart6.Text = "pil gerilimi";
@@ -1247,77 +1265,87 @@
             // 
             // chart7
             // 
-            chartArea16.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea16.AxisX.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea16.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea16.Name = "ChartArea1";
-            this.chart7.ChartAreas.Add(chartArea16);
-            legend16.Enabled = false;
-            legend16.Name = "Legend1";
-            this.chart7.Legends.Add(legend16);
+            chartArea43.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea43.AxisX.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea43.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea43.AxisY.Maximum = 100000D;
+            chartArea43.AxisY.Minimum = 70000D;
+            chartArea43.Name = "ChartArea1";
+            this.chart7.ChartAreas.Add(chartArea43);
+            legend43.Enabled = false;
+            legend43.Name = "Legend1";
+            this.chart7.Legends.Add(legend43);
             this.chart7.Location = new System.Drawing.Point(458, 584);
             this.chart7.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.chart7.Name = "chart7";
-            series17.ChartArea = "ChartArea1";
-            series17.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series17.Legend = "Legend1";
-            series17.Name = "Series1";
-            this.chart7.Series.Add(series17);
+            series47.ChartArea = "ChartArea1";
+            series47.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series47.Legend = "Legend1";
+            series47.Name = "Series1";
+            this.chart7.Series.Add(series47);
             this.chart7.Size = new System.Drawing.Size(363, 185);
             this.chart7.TabIndex = 59;
             this.chart7.Text = "Basınç1";
             // 
             // chart8
             // 
-            chartArea17.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea17.AxisX.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea17.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea17.AxisY.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea17.Name = "ChartArea1";
-            this.chart8.ChartAreas.Add(chartArea17);
-            legend17.Enabled = false;
-            legend17.Name = "Legend1";
-            this.chart8.Legends.Add(legend17);
+            chartArea44.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea44.AxisX.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea44.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea44.AxisY.Maximum = 100000D;
+            chartArea44.AxisY.Minimum = 70000D;
+            chartArea44.AxisY.MinorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea44.Name = "ChartArea1";
+            this.chart8.ChartAreas.Add(chartArea44);
+            legend44.Enabled = false;
+            legend44.Name = "Legend1";
+            this.chart8.Legends.Add(legend44);
             this.chart8.Location = new System.Drawing.Point(462, 385);
             this.chart8.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.chart8.Name = "chart8";
-            series18.ChartArea = "ChartArea1";
-            series18.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series18.Legend = "Legend1";
-            series18.Name = "Series1";
-            series18.SmartLabelStyle.Enabled = false;
-            this.chart8.Series.Add(series18);
+            series48.ChartArea = "ChartArea1";
+            series48.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series48.Legend = "Legend1";
+            series48.Name = "Series1";
+            series48.SmartLabelStyle.Enabled = false;
+            this.chart8.Series.Add(series48);
             this.chart8.Size = new System.Drawing.Size(359, 185);
             this.chart8.TabIndex = 60;
             this.chart8.Text = "Basınç2";
             // 
             // chart9
             // 
-            chartArea18.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea18.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
-            chartArea18.Name = "ChartArea1";
-            this.chart9.ChartAreas.Add(chartArea18);
-            legend18.Enabled = false;
-            legend18.Name = "Legend1";
-            this.chart9.Legends.Add(legend18);
+            chartArea45.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea45.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            chartArea45.AxisY.Maximum = 2000D;
+            chartArea45.AxisY.Minimum = 800D;
+            chartArea45.AxisY2.Maximum = 2000D;
+            chartArea45.AxisY2.Minimum = 800D;
+            chartArea45.Name = "ChartArea1";
+            this.chart9.ChartAreas.Add(chartArea45);
+            legend45.Enabled = false;
+            legend45.Name = "Legend1";
+            this.chart9.Legends.Add(legend45);
             this.chart9.Location = new System.Drawing.Point(1203, 385);
             this.chart9.Name = "chart9";
-            series19.ChartArea = "ChartArea1";
-            series19.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series19.Legend = "Legend1";
-            series19.Name = "Series1";
-            series20.ChartArea = "ChartArea1";
-            series20.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series20.Legend = "Legend1";
-            series20.Name = "Series2";
-            this.chart9.Series.Add(series19);
-            this.chart9.Series.Add(series20);
+            series49.ChartArea = "ChartArea1";
+            series49.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series49.Legend = "Legend1";
+            series49.Name = "Series1";
+            series50.ChartArea = "ChartArea1";
+            series50.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series50.Legend = "Legend1";
+            series50.Name = "Series2";
+            this.chart9.Series.Add(series49);
+            this.chart9.Series.Add(series50);
             this.chart9.Size = new System.Drawing.Size(363, 185);
             this.chart9.TabIndex = 61;
             this.chart9.Text = "chart9";
             // 
             // groupBox5
             // 
+            this.groupBox5.Controls.Add(this.button15);
+            this.groupBox5.Controls.Add(this.button14);
             this.groupBox5.Controls.Add(this.button7);
             this.groupBox5.Controls.Add(this.button6);
             this.groupBox5.Location = new System.Drawing.Point(941, 14);
@@ -1329,13 +1357,36 @@
             this.groupBox5.TabStop = false;
             this.groupBox5.Text = "Otonom Komutlar";
             // 
+            // button15
+            // 
+            this.button15.BackColor = System.Drawing.Color.IndianRed;
+            this.button15.Location = new System.Drawing.Point(96, 87);
+            this.button15.Name = "button15";
+            this.button15.Size = new System.Drawing.Size(63, 23);
+            this.button15.TabIndex = 65;
+            this.button15.Text = "Kapat";
+            this.button15.UseVisualStyleBackColor = false;
+            this.button15.Click += new System.EventHandler(this.button15_Click);
+            // 
+            // button14
+            // 
+            this.button14.BackColor = System.Drawing.Color.IndianRed;
+            this.button14.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button14.Location = new System.Drawing.Point(28, 87);
+            this.button14.Name = "button14";
+            this.button14.Size = new System.Drawing.Size(63, 23);
+            this.button14.TabIndex = 64;
+            this.button14.Text = "Aç";
+            this.button14.UseVisualStyleBackColor = false;
+            this.button14.Click += new System.EventHandler(this.button14_Click);
+            // 
             // button7
             // 
             this.button7.BackColor = System.Drawing.Color.IndianRed;
-            this.button7.Location = new System.Drawing.Point(28, 62);
+            this.button7.Location = new System.Drawing.Point(28, 52);
             this.button7.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(131, 30);
+            this.button7.Size = new System.Drawing.Size(131, 27);
             this.button7.TabIndex = 63;
             this.button7.Text = "Servo Kapat";
             this.button7.UseVisualStyleBackColor = false;
@@ -1344,10 +1395,10 @@
             // button6
             // 
             this.button6.BackColor = System.Drawing.Color.IndianRed;
-            this.button6.Location = new System.Drawing.Point(28, 20);
+            this.button6.Location = new System.Drawing.Point(28, 17);
             this.button6.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(131, 30);
+            this.button6.Size = new System.Drawing.Size(131, 28);
             this.button6.TabIndex = 40;
             this.button6.Text = "Servo Aç";
             this.button6.UseVisualStyleBackColor = false;
@@ -1475,6 +1526,7 @@
             // 
             // groupBox12
             // 
+            this.groupBox12.Controls.Add(this.button17);
             this.groupBox12.Controls.Add(this.groupBox13);
             this.groupBox12.Controls.Add(this.button11);
             this.groupBox12.Controls.Add(this.button10);
@@ -1488,68 +1540,17 @@
             this.groupBox12.TabStop = false;
             this.groupBox12.Text = "Tahrik Komutu";
             // 
-            // button11
+            // button17
             // 
-            this.button11.BackColor = System.Drawing.Color.IndianRed;
-            this.button11.Location = new System.Drawing.Point(23, 89);
-            this.button11.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(131, 23);
-            this.button11.TabIndex = 86;
-            this.button11.Text = "1500PWM";
-            this.button11.UseVisualStyleBackColor = false;
-            this.button11.Click += new System.EventHandler(this.button11_Click);
-            // 
-            // button10
-            // 
-            this.button10.BackColor = System.Drawing.Color.IndianRed;
-            this.button10.Location = new System.Drawing.Point(23, 57);
-            this.button10.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(131, 23);
-            this.button10.TabIndex = 85;
-            this.button10.Text = "1000PWM";
-            this.button10.UseVisualStyleBackColor = false;
-            this.button10.Click += new System.EventHandler(this.button10_Click);
-            // 
-            // button8
-            // 
-            this.button8.BackColor = System.Drawing.Color.IndianRed;
-            this.button8.Location = new System.Drawing.Point(23, 21);
-            this.button8.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(131, 22);
-            this.button8.TabIndex = 84;
-            this.button8.Text = "500PWM";
-            this.button8.UseVisualStyleBackColor = false;
-            this.button8.Click += new System.EventHandler(this.button8_Click);
-            // 
-            // groupBox3
-            // 
-            this.groupBox3.Controls.Add(this.webView21);
-            this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.groupBox3.Location = new System.Drawing.Point(211, 10);
-            this.groupBox3.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
-            this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Padding = new System.Windows.Forms.Padding(2, 1, 2, 1);
-            this.groupBox3.Size = new System.Drawing.Size(252, 129);
-            this.groupBox3.TabIndex = 16;
-            this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Dosya Yükleme";
-            this.groupBox3.Enter += new System.EventHandler(this.groupBox3_Enter);
-            // 
-            // webView21
-            // 
-            this.webView21.AllowExternalDrop = true;
-            this.webView21.CreationProperties = null;
-            this.webView21.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView21.Location = new System.Drawing.Point(4, 18);
-            this.webView21.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.webView21.Name = "webView21";
-            this.webView21.Size = new System.Drawing.Size(244, 110);
-            this.webView21.TabIndex = 0;
-            this.webView21.ZoomFactor = 1D;
-            this.webView21.Click += new System.EventHandler(this.webView21_Click);
+            this.button17.BackColor = System.Drawing.Color.IndianRed;
+            this.button17.Location = new System.Drawing.Point(105, 15);
+            this.button17.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.button17.Name = "button17";
+            this.button17.Size = new System.Drawing.Size(59, 22);
+            this.button17.TabIndex = 88;
+            this.button17.Text = "ARM";
+            this.button17.UseVisualStyleBackColor = false;
+            this.button17.Click += new System.EventHandler(this.button17_Click);
             // 
             // groupBox13
             // 
@@ -1598,6 +1599,67 @@
             this.button13.Text = "500PWM";
             this.button13.UseVisualStyleBackColor = false;
             // 
+            // button11
+            // 
+            this.button11.BackColor = System.Drawing.Color.IndianRed;
+            this.button11.Location = new System.Drawing.Point(33, 80);
+            this.button11.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.button11.Name = "button11";
+            this.button11.Size = new System.Drawing.Size(131, 23);
+            this.button11.TabIndex = 86;
+            this.button11.Text = "1500PWM";
+            this.button11.UseVisualStyleBackColor = false;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
+            // 
+            // button10
+            // 
+            this.button10.BackColor = System.Drawing.Color.IndianRed;
+            this.button10.Location = new System.Drawing.Point(33, 48);
+            this.button10.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(131, 23);
+            this.button10.TabIndex = 85;
+            this.button10.Text = "1000PWM";
+            this.button10.UseVisualStyleBackColor = false;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
+            // 
+            // button8
+            // 
+            this.button8.BackColor = System.Drawing.Color.IndianRed;
+            this.button8.Location = new System.Drawing.Point(33, 16);
+            this.button8.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(59, 22);
+            this.button8.TabIndex = 84;
+            this.button8.Text = "500PWM";
+            this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.webView21);
+            this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.groupBox3.Location = new System.Drawing.Point(211, 10);
+            this.groupBox3.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Padding = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.groupBox3.Size = new System.Drawing.Size(252, 129);
+            this.groupBox3.TabIndex = 16;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "Dosya Yükleme";
+            // 
+            // webView21
+            // 
+            this.webView21.AllowExternalDrop = true;
+            this.webView21.CreationProperties = null;
+            this.webView21.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webView21.Location = new System.Drawing.Point(4, 18);
+            this.webView21.Margin = new System.Windows.Forms.Padding(2);
+            this.webView21.Name = "webView21";
+            this.webView21.Size = new System.Drawing.Size(244, 110);
+            this.webView21.TabIndex = 0;
+            this.webView21.ZoomFactor = 1D;
+            // 
             // groupBox14
             // 
             this.groupBox14.Controls.Add(this.textBox3);
@@ -1614,34 +1676,42 @@
             this.groupBox14.TabIndex = 83;
             this.groupBox14.TabStop = false;
             this.groupBox14.Text = "Özgün Görev";
-            this.groupBox14.Enter += new System.EventHandler(this.groupBox14_Enter);
             // 
-            // label4
+            // textBox3
             // 
-            this.label4.AutoSize = true;
-            this.label4.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.label4.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label4.Location = new System.Drawing.Point(12, 29);
-            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(118, 15);
-            this.label4.TabIndex = 2;
-            this.label4.Text = "Estimated GPS Altitude";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
+            this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
+            this.textBox3.Location = new System.Drawing.Point(134, 90);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.ReadOnly = true;
+            this.textBox3.Size = new System.Drawing.Size(41, 20);
+            this.textBox3.TabIndex = 23;
+            this.textBox3.Text = "0";
+            this.textBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // label5
+            // textBox2
             // 
-            this.label5.AutoSize = true;
-            this.label5.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.label5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label5.Location = new System.Drawing.Point(12, 59);
-            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(118, 15);
-            this.label5.TabIndex = 3;
-            this.label5.Text = "Estimated GPS Altitude";
+            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
+            this.textBox2.Location = new System.Drawing.Point(134, 58);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.ReadOnly = true;
+            this.textBox2.Size = new System.Drawing.Size(41, 20);
+            this.textBox2.TabIndex = 22;
+            this.textBox2.Text = "0";
+            this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
+            this.textBox1.Location = new System.Drawing.Point(134, 27);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
+            this.textBox1.Size = new System.Drawing.Size(41, 20);
+            this.textBox1.TabIndex = 21;
+            this.textBox1.Text = "0";
+            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label6
             // 
@@ -1656,48 +1726,38 @@
             this.label6.TabIndex = 4;
             this.label6.Text = "Estimated GPS Altitude";
             // 
-            // textBox1
+            // label5
             // 
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
-            this.textBox1.Location = new System.Drawing.Point(134, 27);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(41, 20);
-            this.textBox1.TabIndex = 21;
-            this.textBox1.Text = "0";
-            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.label5.AutoSize = true;
+            this.label5.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.label5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.label5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label5.Location = new System.Drawing.Point(12, 59);
+            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(118, 15);
+            this.label5.TabIndex = 3;
+            this.label5.Text = "Estimated GPS Altitude";
             // 
-            // textBox2
+            // label4
             // 
-            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
-            this.textBox2.Location = new System.Drawing.Point(134, 58);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.ReadOnly = true;
-            this.textBox2.Size = new System.Drawing.Size(41, 20);
-            this.textBox2.TabIndex = 22;
-            this.textBox2.Text = "0";
-            this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox3
-            // 
-            this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
-            this.textBox3.Location = new System.Drawing.Point(134, 90);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.ReadOnly = true;
-            this.textBox3.Size = new System.Drawing.Size(41, 20);
-            this.textBox3.TabIndex = 23;
-            this.textBox3.Text = "0";
-            this.textBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.label4.AutoSize = true;
+            this.label4.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.label4.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.label4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label4.Location = new System.Drawing.Point(12, 29);
+            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(118, 15);
+            this.label4.TabIndex = 2;
+            this.label4.Text = "Estimated GPS Altitude";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.ClientSize = new System.Drawing.Size(1656, 748);
+            this.ClientSize = new System.Drawing.Size(1656, 886);
             this.Controls.Add(this.groupBox14);
             this.Controls.Add(this.groupBox12);
             this.Controls.Add(this.label9);
@@ -1782,9 +1842,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.chart9)).EndInit();
             this.groupBox5.ResumeLayout(false);
             this.groupBox12.ResumeLayout(false);
+            this.groupBox13.ResumeLayout(false);
             this.groupBox3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webView21)).EndInit();
-            this.groupBox13.ResumeLayout(false);
             this.groupBox14.ResumeLayout(false);
             this.groupBox14.PerformLayout();
             this.ResumeLayout(false);
@@ -1915,6 +1975,9 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Button button15;
+        private System.Windows.Forms.Button button14;
+        private System.Windows.Forms.Button button17;
     }
 }
 
