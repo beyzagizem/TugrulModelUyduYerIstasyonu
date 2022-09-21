@@ -18,6 +18,9 @@ namespace Arduino_SerialPortCom1
 
     public partial class Form1 : Form
     {
+        double aksarayLongtitude = 29.99;
+        double aksarayLatitude = 41.01;
+        double aksarayRakim = 820;
 
         private float x = 0, y = 0, z = 0;
         private readonly bool cx = true, cy = true, cz = true;//gl control
@@ -212,6 +215,8 @@ namespace Arduino_SerialPortCom1
             GL.ClearColor(Color.Pink);
             TimerXYZ.Interval = 1;
 
+           
+
 
             series1 = chart1.Series.Add("Sıcaklık");
             series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
@@ -301,6 +306,46 @@ namespace Arduino_SerialPortCom1
                 {
                     veriler[i] = "0";
                 }
+            }
+            try
+            {
+                if (veriler[17] == "3")
+                {
+                    double lat = Convert.ToDouble(veriler[14].Replace(".", ","));
+                    double longtitutde = Convert.ToDouble(veriler[15].Replace(".", ","));
+
+                    double gorevYukuHiz = Convert.ToDouble(veriler[8].Replace(".", ","));
+                    double gorevYukuHizDusey = Math.Cos(0.29) * gorevYukuHiz;
+                    double gorevYukuHizYatay = Math.Sin(0.29) * gorevYukuHiz;
+                    double gorevYukuHizZEkseni = Math.Sin(0.29) * gorevYukuHiz;
+
+
+                    double rakim = 1100;
+                    if (rakim >= aksarayRakim)
+                    {
+                        Convert.ToDouble(veriler[16].Replace(".", ","));
+                    }
+                    double distanceRakim = rakim - aksarayRakim;
+                    double vYereCarpma = Math.Sqrt((gorevYukuHizDusey * gorevYukuHizDusey) + 2 * 9.81 * distanceRakim);
+                    double yereCarpmaSuresi = (vYereCarpma - gorevYukuHizDusey) / 9.81;
+                    double yatayAldigiYol = yereCarpmaSuresi * gorevYukuHizYatay;
+                    double zAldigiYol = gorevYukuHizZEkseni * yereCarpmaSuresi;
+
+                    double new_latitude = lat + (yatayAldigiYol / 6378000) * (180 / Math.PI);
+                    double new_longitude = longtitutde + (zAldigiYol / 6378000) * (180 / Math.PI) / Math.Cos(lat * Math.PI / 180);
+
+                    textBox1.Text = new_latitude.ToString();
+                    textBox2.Text = new_longitude.ToString();
+
+
+
+                }
+            }
+            catch
+            {
+                textBox1.Text = "";
+                textBox2.Text = "";
+
             }
 
             workSheet.Cells[i + 2, "A"] = veriler[0];
@@ -755,6 +800,11 @@ namespace Arduino_SerialPortCom1
         }
 
         private void MapGorev_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
         {
 
         }
